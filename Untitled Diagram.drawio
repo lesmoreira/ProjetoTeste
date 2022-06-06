@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-06T00:33:09.207Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.30" etag="zDbDcWq5h5uCMuGEcoqy" version="17.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-06T01:40:28.569Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.30" etag="L9go5rMk7aLN2HQqM8eB" version="17.5.0" type="github">
   <diagram id="ImiZiOODFj8ORh_n_VHi" name="Page-1">
     <mxGraphModel dx="1695" dy="1651" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -8,7 +8,7 @@
           <mxGeometry x="-270" y="230" width="250" height="240" as="geometry" />
         </mxCell>
         <mxCell id="dk_xkWQx7_EmQdFWq2oa-57" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-10" y="230" width="360" height="480" as="geometry" />
+          <mxGeometry x="-10" y="230" width="360" height="550" as="geometry" />
         </mxCell>
         <mxCell id="dk_xkWQx7_EmQdFWq2oa-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dk_xkWQx7_EmQdFWq2oa-3" target="dk_xkWQx7_EmQdFWq2oa-4">
           <mxGeometry relative="1" as="geometry" />
@@ -182,7 +182,10 @@
           <mxGeometry x="-230" y="366" width="68" height="68" as="geometry" />
         </mxCell>
         <mxCell id="dk_xkWQx7_EmQdFWq2oa-79" value="App config" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/App_Configuration.svg;" vertex="1" parent="1">
-          <mxGeometry x="290" y="640" width="50" height="49" as="geometry" />
+          <mxGeometry x="290" y="704" width="50" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="dk_xkWQx7_EmQdFWq2oa-88" value="Log Analytics" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/analytics/Log_Analytics_Workspaces.svg;" vertex="1" parent="1">
+          <mxGeometry x="206" y="700" width="53" height="53" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
